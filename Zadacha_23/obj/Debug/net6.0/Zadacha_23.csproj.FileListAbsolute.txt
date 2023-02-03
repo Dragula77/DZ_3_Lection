@@ -1,0 +1,15 @@
+/Users/igormincenko/Desktop/Zadacha_23/bin/Debug/net6.0/Zadacha_23
+/Users/igormincenko/Desktop/Zadacha_23/bin/Debug/net6.0/Zadacha_23.deps.json
+/Users/igormincenko/Desktop/Zadacha_23/bin/Debug/net6.0/Zadacha_23.runtimeconfig.json
+/Users/igormincenko/Desktop/Zadacha_23/bin/Debug/net6.0/Zadacha_23.dll
+/Users/igormincenko/Desktop/Zadacha_23/bin/Debug/net6.0/Zadacha_23.pdb
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.csproj.AssemblyReference.cache
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.AssemblyInfoInputs.cache
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.AssemblyInfo.cs
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.csproj.CoreCompileInputs.cache
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.dll
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/refint/Zadacha_23.dll
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.pdb
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/Zadacha_23.genruntimeconfig.cache
+/Users/igormincenko/Desktop/Zadacha_23/obj/Debug/net6.0/ref/Zadacha_23.dll
